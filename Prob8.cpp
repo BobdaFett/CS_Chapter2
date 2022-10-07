@@ -2,7 +2,8 @@
 // Created by lvas4 on 10/6/2022.
 //
 
-// Create some sort of program...
+// Write a program that does what program 7 does, but with the law of sines insted.
+// I'm not going to attempt this program without finishing Prob7.cpp
 
 #include <iostream>
 #include <cmath>
